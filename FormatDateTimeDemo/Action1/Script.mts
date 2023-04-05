@@ -1,0 +1,6 @@
+﻿Print("Example showing Format Date Time Function ")
+Print(FormatDateTime(Date(), vbGeneralDate))
+Print(FormatDateTime(Date(), vbLongDate))
+Print(FormatDateTime(Date(), vbShortDate))
+Print(FormatDateTime(Time(), vbLongTime))
+Print(FormatDateTime(Time(), vbShortTime))

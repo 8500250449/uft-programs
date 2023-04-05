@@ -1,0 +1,7 @@
+﻿print(abs(2.6578))
+print(exp(9))
+print(int(4.567))
+print(log(30))
+print(rnd(1))
+print(sgn(3))
+print(sqr(12))
